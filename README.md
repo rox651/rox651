@@ -1,16 +1,14 @@
-### Hi there 👋
+### alert("Bienvenido a mi repositorio") 👋
 
-<!--
-**rox651/rox651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--Mi nombre es Homero José y aquí encontrarás mi información personal. Podras visualizar los repositorios o proyectos que he
+realizado hasta el momento.
 
-Here are some ideas to get you started:
+TítuloAcadémico = "Bachiller en Técnico Informático";
+RedesSociales = {
+  Linkedin = "https://www.linkedin.com/in/homero-josé-bracamonte-ramirez-805399230/",
+  GitHub = "https://github.com/rox651",
+  Gmail = "homerojose69@gmail.com"
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
