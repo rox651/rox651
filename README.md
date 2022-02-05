@@ -1,14 +1,14 @@
-### alert("Bienvenido a mi repositorio") 👋
+![code](https://user-images.githubusercontent.com/96498455/152651016-a89b52f4-7a2f-467d-915f-26b492b7b07a.png)
 
---Mi nombre es Homero José y aquí encontrarás mi información personal. Podras visualizar los repositorios o proyectos que he
-realizado hasta el momento.
 
-TítuloAcadémico = "Bachiller en Técnico Informático";
-RedesSociales = {
-  Linkedin = "https://www.linkedin.com/in/homero-josé-bracamonte-ramirez-805399230/",
-  GitHub = "https://github.com/rox651",
-  Gmail = "homerojose69@gmail.com"
-};
+  :pencil: Linkedin = "https://www.linkedin.com/in/homero-josé-bracamonte-ramirez-805399230/"
+  
+  :computer: GitHub = "https://github.com/rox651
+  
+  :headphones: Discord = #4271
+  
+  :email: Gmail = "homerojose69@gmail.com"
+
 
 
 
