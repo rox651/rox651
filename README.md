@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador web, centrado en la realizacion de paginas estaticas, dinamicas e interactivas, buscando la accesibilidad y comodidad del usuario
+Web developer, focused on the creation of static, dynamic and interactive pages, looking for accessibility and user comfort.
 
 ## Portfolio: 
 📖[homerobracamonte.netlify.app](https://homerobracamonte.netlify.app)
