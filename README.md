@@ -2,7 +2,7 @@
 Web developer, focused on the creation of static, dynamic and interactive pages, looking for accessibility and user comfort.
 
 ## Portfolio: 
-📖[homero-bracamonte-portfolio.vercel.app]([https://homerobracamonte.netlify.app](https://homero-bracamonte-portfolio.vercel.app))
+📖([Portfolio](https://homero-bracamonte-portfolio.vercel.app))
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/rox65#6233) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/homero-bracamonte/) 
