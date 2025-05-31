@@ -10,7 +10,6 @@ Focused on the creation of static, dynamic and interactive pages, looking for ac
 * 🖥️  See my portfolio at [here](http://homero-bracamonte-portfolio.vercel.app)
 * ✉️  You can contact me at [homerojose69@gmail.com](mailto:homerojose69@gmail.com)
 * 🧠  I'm learning Golang
-* 
 ### Skills
 
 <p align="left">
