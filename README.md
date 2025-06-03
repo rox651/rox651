@@ -9,7 +9,7 @@ Focused on the creation of static, dynamic and interactive pages, looking for ac
 * 🌍  I'm based in Medellín, Colombia
 * 🖥️  See my portfolio at [here](http://homero-bracamonte-portfolio.vercel.app)
 * ✉️  You can contact me at [homerojose69@gmail.com](mailto:homerojose69@gmail.com)
-* 🧠  I'm learning Golang
+* 🧠  I'm learning Docker
 ### Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
